@@ -1,0 +1,758 @@
+[
+  {
+    "title": "Guten Morgen, Welt",
+    "topic": "Daily Life",
+    "lyrics": [
+      { "german": "Guten Morgen, liebe Welt!", "english": "Good morning, dear world!" },
+      { "german": "Die Sonne scheint so hell.", "english": "The sun shines so brightly." },
+      { "german": "Ich stehe auf und strecke mich.", "english": "I get up and stretch." },
+      { "german": "Ein neuer Tag beginnt für mich.", "english": "A new day begins for me." },
+      { "german": "Kaffee dampft in meiner Tasse.", "english": "Coffee steams in my cup." },
+      { "german": "Ich gehe durch die nasse Gasse.", "english": "I walk through the wet alley." },
+      { "german": "Guten Morgen, guten Tag!", "english": "Good morning, good day!" },
+      { "german": "Ich freue mich, was kommen mag.", "english": "I am glad for what may come." }
+    ]
+  },
+  {
+    "title": "Ich lerne Deutsch",
+    "topic": "Learning",
+    "lyrics": [
+      { "german": "Ich lerne Deutsch, jeden Tag.", "english": "I learn German, every day." },
+      { "german": "Es macht mir richtig viel Spaß.", "english": "I really enjoy it a lot." },
+      { "german": "Neue Wörter, Schritt für Schritt.", "english": "New words, step by step." },
+      { "german": "Ich nehme alle Lektionen mit.", "english": "I take all the lessons with me." },
+      { "german": "Sprechen, hören, lesen, schreiben.", "english": "Speaking, listening, reading, writing." },
+      { "german": "Ich will beim Deutschlernen bleiben.", "english": "I want to keep learning German." },
+      { "german": "Eines Tages spreche ich fließend.", "english": "One day I will speak fluently." },
+      { "german": "Mein Traum ist nah — ich weiß es.", "english": "My dream is close — I know it." }
+    ]
+  },
+  {
+    "title": "Berlin, meine Stadt",
+    "topic": "Cities",
+    "lyrics": [
+      { "german": "Berlin, du bist so groß und weit.", "english": "Berlin, you are so big and vast." },
+      { "german": "Voller Geschichte, voller Zeit.", "english": "Full of history, full of time." },
+      { "german": "Die Mauer fiel, die Stadt erwacht.", "english": "The wall fell, the city awakened." },
+      { "german": "Ein neues Leben wurde gemacht.", "english": "A new life was made." },
+      { "german": "Am Brandenburger Tor steh ich.", "english": "At the Brandenburg Gate I stand." },
+      { "german": "Die Vergangenheit umgibt sie mich.", "english": "The past surrounds me here." },
+      { "german": "Berlin, ich liebe diese Stadt.", "english": "Berlin, I love this city." },
+      { "german": "Die mein Herz berührt und hat.", "english": "That has touched my heart." }
+    ]
+  },
+  {
+    "title": "Der Frühling kommt",
+    "topic": "Nature",
+    "lyrics": [
+      { "german": "Der Frühling kommt, der Schnee schmilzt weg.", "english": "Spring comes, the snow melts away." },
+      { "german": "Die Blumen blühen auf dem Weg.", "english": "The flowers bloom along the path." },
+      { "german": "Die Vögel singen ihr Lied.", "english": "The birds sing their song." },
+      { "german": "Ein warmer Wind durch die Zweige zieht.", "english": "A warm wind moves through the branches." },
+      { "german": "Alles grünt und alles blüht.", "english": "Everything grows green and blooms." },
+      { "german": "Das Herz wird leicht, das Herz erglüht.", "english": "The heart grows light, the heart glows." },
+      { "german": "Willkommen, Frühling, schöne Zeit!", "english": "Welcome, spring, beautiful time!" },
+      { "german": "Wir freuen uns auf dich so weit.", "english": "We look forward to you from so far." }
+    ]
+  },
+  {
+    "title": "Meine Familie",
+    "topic": "Family",
+    "lyrics": [
+      { "german": "Meine Mutter, mein Vater, mein Haus.", "english": "My mother, my father, my home." },
+      { "german": "Zusammen gehen wir nie aus.", "english": "Together we never fall apart." },
+      { "german": "Mein Bruder lacht, meine Schwester singt.", "english": "My brother laughs, my sister sings." },
+      { "german": "Die Oma tanzt, wenn die Musik erklingt.", "english": "Grandma dances when the music plays." },
+      { "german": "Familie ist Liebe, Familie ist Kraft.", "english": "Family is love, family is strength." },
+      { "german": "Die Bindung, die Freude bringt und schafft.", "english": "The bond that brings and creates joy." },
+      { "german": "Ich bin so froh, euch zu haben.", "english": "I am so glad to have you." },
+      { "german": "Mit euch kein Sturm kann mich graben.", "english": "With you no storm can bury me." }
+    ]
+  },
+  {
+    "title": "Regen und Sonne",
+    "topic": "Weather",
+    "lyrics": [
+      { "german": "Es regnet heute, doch ich bin froh.", "english": "It rains today, but I am glad." },
+      { "german": "Denn nach dem Regen scheint die Sonn so schön.", "english": "For after the rain the sun shines so beautifully." },
+      { "german": "Tropfen fallen auf mein Fensterglas.", "english": "Drops fall on my window pane." },
+      { "german": "Ich mach mir Tee und sitz im warmen Haus.", "english": "I make tea and sit in the warm house." },
+      { "german": "Der Himmel grau, die Wolken zieh'n vorbei.", "english": "The sky grey, the clouds pass by." },
+      { "german": "Doch bald ist alles wieder hell und neu.", "english": "But soon everything is bright and new again." },
+      { "german": "Regen und Sonne, Sonne und Regen.", "english": "Rain and sunshine, sunshine and rain." },
+      { "german": "Das Leben kommt mit vielen Segen.", "english": "Life comes with many blessings." }
+    ]
+  },
+  {
+    "title": "Kaffee und Kuchen",
+    "topic": "Food",
+    "lyrics": [
+      { "german": "Kaffee und Kuchen am Nachmittag.", "english": "Coffee and cake in the afternoon." },
+      { "german": "Das ist mein liebster Augenblick im Tag.", "english": "That is my favourite moment of the day." },
+      { "german": "Der Kuchen duftet, süß und fein.", "english": "The cake smells sweet and fine." },
+      { "german": "Darf ich ein kleines Stückchen haben, nein?", "english": "May I have a little piece, may I not?" },
+      { "german": "Schwarzwälder Kirschtorte, ja!", "english": "Black Forest gateau, yes!" },
+      { "german": "Mit Sahne oben drauf, hurra!", "english": "With cream on top, hurray!" },
+      { "german": "Kaffee und Kuchen, Kuchen und Kaffee.", "english": "Coffee and cake, cake and coffee." },
+      { "german": "Danach geht es mir immer besser.", "english": "After that I always feel better." }
+    ]
+  },
+  {
+    "title": "Auf Reisen",
+    "topic": "Travel",
+    "lyrics": [
+      { "german": "Ich pack mein Koffer, ich geh auf Reisen.", "english": "I pack my suitcase, I go travelling." },
+      { "german": "Neue Länder, neue Weisen.", "english": "New countries, new ways." },
+      { "german": "Der Zug fährt ab, das Flugzeug steigt.", "english": "The train departs, the plane climbs." },
+      { "german": "Mein Herz ist weit, wenn das Fernweh zeigt.", "english": "My heart is vast when wanderlust shows." },
+      { "german": "Paris, Madrid, Wien und Rom.", "english": "Paris, Madrid, Vienna and Rome." },
+      { "german": "Überall fühl ich mich wie zu Haus, ich komm.", "english": "Everywhere I feel at home, I come." },
+      { "german": "Reisen macht klug und macht das Herz weit.", "english": "Travelling makes you wise and opens your heart." },
+      { "german": "Die Welt ist schön — für alle Zeit.", "english": "The world is beautiful — for all time." }
+    ]
+  },
+  {
+    "title": "Das Alphabet",
+    "topic": "Learning",
+    "lyrics": [
+      { "german": "A, B, C, D, E, F, G —", "english": "A, B, C, D, E, F, G —" },
+      { "german": "Das deutsche Alphabet lern ich frei.", "english": "I learn the German alphabet freely." },
+      { "german": "H, I, J, K, L, M, N —", "english": "H, I, J, K, L, M, N —" },
+      { "german": "Ich sing es laut, ich sing es schön.", "english": "I sing it loudly, I sing it beautifully." },
+      { "german": "O, P, Q, R, S, T, U —", "english": "O, P, Q, R, S, T, U —" },
+      { "german": "Jetzt kenn ich schon so viele, schau!", "english": "Now I already know so many, look!" },
+      { "german": "V, W, X, Y und Z —", "english": "V, W, X, Y and Z —" },
+      { "german": "Das Alphabet — ich kann es, seht!", "english": "The alphabet — I know it, see!" }
+    ]
+  },
+  {
+    "title": "Freunde fürs Leben",
+    "topic": "Friendship",
+    "lyrics": [
+      { "german": "Freunde sind das Gold des Lebens.", "english": "Friends are the gold of life." },
+      { "german": "Ohne sie wär alles vergebens.", "english": "Without them everything would be in vain." },
+      { "german": "Du lachst mit mir, du weinst mit mir.", "english": "You laugh with me, you cry with me." },
+      { "german": "Kein besserer Mensch als du ist hier.", "english": "There is no better person here than you." },
+      { "german": "Wir teilen Spaß und teilen Schmerz.", "english": "We share joy and share pain." },
+      { "german": "Du hast einen Platz in meinem Herz.", "english": "You have a place in my heart." },
+      { "german": "Freunde fürs Leben, fürs Leben Freunde.", "english": "Friends for life, for life friends." },
+      { "german": "Zusammen stark in jeder Runde.", "english": "Strong together in every round." }
+    ]
+  },
+  {
+    "title": "Die Jahreszeiten",
+    "topic": "Nature",
+    "lyrics": [
+      { "german": "Im Frühling blühen alle Blumen.", "english": "In spring all the flowers bloom." },
+      { "german": "Im Sommer lachen wir und summen.", "english": "In summer we laugh and hum." },
+      { "german": "Im Herbst fallen die Blätter bunt.", "english": "In autumn the leaves fall colourfully." },
+      { "german": "Im Winter ist die Erde rund und stumm.", "english": "In winter the earth is round and silent." },
+      { "german": "Frühling, Sommer, Herbst und Winter.", "english": "Spring, summer, autumn and winter." },
+      { "german": "Jede Zeit hat ihren Glanz dahinter.", "english": "Every season has its glow behind it." },
+      { "german": "Das Jahr dreht sich, das Leben dreht sich.", "english": "The year turns, life turns." },
+      { "german": "Die Zeit vergeht, doch Schönheit bleibt für mich.", "english": "Time passes but beauty stays for me." }
+    ]
+  },
+  {
+    "title": "Mein Traumhaus",
+    "topic": "Home",
+    "lyrics": [
+      { "german": "Ich träume von einem kleinen Haus.", "english": "I dream of a little house." },
+      { "german": "Mit Garten, Blumen, einem Strauch.", "english": "With a garden, flowers and a bush." },
+      { "german": "Ein Kamin im Wohnzimmer warm.", "english": "A fireplace in the warm living room." },
+      { "german": "Kein Lärm, nur Ruhe, sanft und zart.", "english": "No noise, only peace, soft and gentle." },
+      { "german": "Ein Hund liegt auf dem Sofa drin.", "english": "A dog lies on the sofa inside." },
+      { "german": "Ich weiß, dass das mein Zuhause bin.", "english": "I know that this is my home." },
+      { "german": "Mein Traumhaus, mein Zuhause, mein Glück.", "english": "My dream house, my home, my happiness." },
+      { "german": "Ich komme immer gerne zurück.", "english": "I always love to come back." }
+    ]
+  },
+  {
+    "title": "Zahlen zählen",
+    "topic": "Learning",
+    "lyrics": [
+      { "german": "Eins, zwei, drei — ich zähle frei!", "english": "One, two, three — I count freely!" },
+      { "german": "Vier, fünf, sechs — das macht mir Spaß!", "english": "Four, five, six — I enjoy that!" },
+      { "german": "Sieben, acht, neun — ich bin dabei!", "english": "Seven, eight, nine — I am here!" },
+      { "german": "Zehn — und wieder von vorne, hurrei!", "english": "Ten — and back to the start, hurray!" },
+      { "german": "Elf, zwölf, dreizehn — weiter so!", "english": "Eleven, twelve, thirteen — keep going!" },
+      { "german": "Vierzehn, fünfzehn — ich bin froh.", "english": "Fourteen, fifteen — I am happy." },
+      { "german": "Bis zwanzig zähle ich allein.", "english": "I count to twenty on my own." },
+      { "german": "Das Zählen macht mich ganz fein!", "english": "Counting makes me feel just fine!" }
+    ]
+  },
+  {
+    "title": "Heimweh",
+    "topic": "Emotions",
+    "lyrics": [
+      { "german": "Ich bin weit weg von zu Hause.", "english": "I am far away from home." },
+      { "german": "Und sitze hier in fremder Klause.", "english": "And sit here in a foreign place." },
+      { "german": "Ich denke an die Felder grün.", "english": "I think of the green fields." },
+      { "german": "An Mama, die mir zeigt wohin.", "english": "Of Mum, who shows me the way." },
+      { "german": "Heimweh tut so weh, so sehr.", "english": "Homesickness hurts so much, so deeply." },
+      { "german": "Das Herz ist schwer, das Herz ist leer.", "english": "The heart is heavy, the heart is empty." },
+      { "german": "Doch eines Tages komm ich heim.", "english": "But one day I will come home." },
+      { "german": "Und alles wird wieder rein.", "english": "And everything will be pure again." }
+    ]
+  },
+  {
+    "title": "Sport und Bewegung",
+    "topic": "Sport",
+    "lyrics": [
+      { "german": "Ich laufe morgens durch den Park.", "english": "I run through the park in the mornings." },
+      { "german": "Die Luft ist frisch, mein Körper stark.", "english": "The air is fresh, my body strong." },
+      { "german": "Sport macht Spaß, Sport macht fit.", "english": "Sport is fun, sport keeps you fit." },
+      { "german": "Ich nehme jeden Tag einen Schritt mit.", "english": "I take one step every day." },
+      { "german": "Fußball, Schwimmen, Radfahren.", "english": "Football, swimming, cycling." },
+      { "german": "Bewegung lässt uns jung und frei gebären.", "english": "Movement keeps us young and free." },
+      { "german": "Mein Körper dankt mir jeden Tag.", "english": "My body thanks me every day." },
+      { "german": "Wenn ich mich bewege, wie ich mag.", "english": "When I move the way I like." }
+    ]
+  },
+  {
+    "title": "Liebe ist überall",
+    "topic": "Love",
+    "lyrics": [
+      { "german": "Liebe ist in der Luft, sie ist überall.", "english": "Love is in the air, it is everywhere." },
+      { "german": "Sie füllt mein Herz bei jedem Fall.", "english": "It fills my heart in every moment." },
+      { "german": "Dein Lächeln macht mich glücklich so.", "english": "Your smile makes me so happy." },
+      { "german": "Bei dir bin ich immer froh.", "english": "With you I am always joyful." },
+      { "german": "Ich halte deine Hand ganz fest.", "english": "I hold your hand very tightly." },
+      { "german": "Du bist das Beste, was ich hab, zuletzt.", "english": "You are the best thing I have, in the end." },
+      { "german": "Liebe ist überall, Liebe ist groß.", "english": "Love is everywhere, love is great." },
+      { "german": "Mit dir bin ich frei und sorglos.", "english": "With you I am free and carefree." }
+    ]
+  },
+  {
+    "title": "Der alte Baum",
+    "topic": "Nature",
+    "lyrics": [
+      { "german": "Ein alter Baum steht auf dem Hügel.", "english": "An old tree stands on the hill." },
+      { "german": "Er kennt den Wind und jeden Spiegel.", "english": "It knows the wind and every reflection." },
+      { "german": "Hundert Jahre stand er schon.", "english": "It has stood for a hundred years." },
+      { "german": "Er trägt die Zeit wie eine Kron.", "english": "It carries time like a crown." },
+      { "german": "Im Frühling trägt er frisches Grün.", "english": "In spring it bears fresh green." },
+      { "german": "Im Winter steht er klar und kühn.", "english": "In winter it stands clear and bold." },
+      { "german": "Alter Baum, du bist so weise.", "english": "Old tree, you are so wise." },
+      { "german": "Du zeigst mir das Leben auf deine Weise.", "english": "You show me life in your own way." }
+    ]
+  },
+  {
+    "title": "Gute Nacht, kleines Kind",
+    "topic": "Children",
+    "lyrics": [
+      { "german": "Gute Nacht, kleines Kind.", "english": "Good night, little child." },
+      { "german": "Der Mond scheint, ein warmer Wind.", "english": "The moon shines, a warm wind blows." },
+      { "german": "Schließ die Augen, schlaf jetzt ein.", "english": "Close your eyes, fall asleep now." },
+      { "german": "Morgen wird die Sonne wieder schein.", "english": "Tomorrow the sun will shine again." },
+      { "german": "Träum von Sternen, träum von Meer.", "english": "Dream of stars, dream of the sea." },
+      { "german": "Träum von allem, was schön und mehr.", "english": "Dream of everything beautiful and more." },
+      { "german": "Gute Nacht, bis morgen früh.", "english": "Good night, until tomorrow morning." },
+      { "german": "Schlaf wohl, mein Kind, ich liebe dich.", "english": "Sleep well, my child, I love you." }
+    ]
+  },
+  {
+    "title": "Die Sprache der Musik",
+    "topic": "Music",
+    "lyrics": [
+      { "german": "Musik spricht, wo Worte schweigen.", "english": "Music speaks where words are silent." },
+      { "german": "Sie lässt die tiefsten Gefühle zeigen.", "english": "It lets the deepest feelings show." },
+      { "german": "Eine Melodie, ein Klang, ein Ton.", "english": "A melody, a sound, a tone." },
+      { "german": "Trägt mich fort wie ein Ballon.", "english": "Carries me away like a balloon." },
+      { "german": "Gitarre, Klavier, Geige, Trommel.", "english": "Guitar, piano, violin, drum." },
+      { "german": "Jedes Instrument klingt wie ein Kummer.", "english": "Every instrument sounds like an emotion." },
+      { "german": "Musik verbindet Herz und Seele.", "english": "Music connects heart and soul." },
+      { "german": "Sie heilt den Schmerz in jeder Höhle.", "english": "It heals the pain in every hollow." }
+    ]
+  },
+  {
+    "title": "Arbeit und Pause",
+    "topic": "Work",
+    "lyrics": [
+      { "german": "Ich arbeite hart, den ganzen Tag.", "english": "I work hard, the whole day." },
+      { "german": "Doch dann kommt die Pause, die ich mag.", "english": "But then comes the break that I enjoy." },
+      { "german": "Kaffee in der Hand, Atem holen.", "english": "Coffee in hand, catching my breath." },
+      { "german": "Kurz die Gedanken neu erholen.", "english": "Briefly refreshing my thoughts." },
+      { "german": "Dann weiter, Schritt für Schritt.", "english": "Then onwards, step by step." },
+      { "german": "Ich nehme jede Aufgabe mit.", "english": "I take on every task." },
+      { "german": "Arbeit macht uns stark und klar.", "english": "Work makes us strong and clear." },
+      { "german": "Und die Pause macht uns wunderbar.", "english": "And the break makes us wonderful." }
+    ]
+  },
+  {
+    "title": "Mein Hund Bello",
+    "topic": "Animals",
+    "lyrics": [
+      { "german": "Mein Hund heißt Bello, er ist treu.", "english": "My dog is called Bello, he is loyal." },
+      { "german": "Er springt und bellt und ist immer neu.", "english": "He jumps and barks and is always fresh." },
+      { "german": "Morgens läuft er mit mir durch den Park.", "english": "In the mornings he runs through the park with me." },
+      { "german": "Er ist mein bester Freund, so stark.", "english": "He is my best friend, so strong." },
+      { "german": "Er wedelt mit dem Schwanz so schnell.", "english": "He wags his tail so fast." },
+      { "german": "Sein Blick ist warm und strahlend hell.", "english": "His gaze is warm and radiantly bright." },
+      { "german": "Bello, Bello, du bist fein.", "english": "Bello, Bello, you are wonderful." },
+      { "german": "Ohne dich möcht ich nicht sein.", "english": "Without you I would not want to be." }
+    ]
+  },
+  {
+    "title": "Das Meer ruft mich",
+    "topic": "Nature",
+    "lyrics": [
+      { "german": "Das Meer ruft mich mit seinen Wellen.", "english": "The sea calls me with its waves." },
+      { "german": "Ich höre es in meinen Zellen.", "english": "I hear it in every cell of my body." },
+      { "german": "Der Sand ist warm, das Wasser blau.", "english": "The sand is warm, the water blue." },
+      { "german": "Ich schaue auf den Horizont genau.", "english": "I gaze precisely at the horizon." },
+      { "german": "Die Möwen schreien hoch im Wind.", "english": "The seagulls cry high in the wind." },
+      { "german": "Ich bin hier frei, ein kleines Kind.", "english": "I am free here, a small child." },
+      { "german": "Das Meer ist groß, ich bin so klein.", "english": "The sea is vast, I am so small." },
+      { "german": "Doch fühle ich mich nie allein.", "english": "Yet I never feel alone." }
+    ]
+  },
+  {
+    "title": "Kochen mit Liebe",
+    "topic": "Food",
+    "lyrics": [
+      { "german": "Ich koche heute etwas Feines.", "english": "Today I am cooking something fine." },
+      { "german": "Für mich, für dich, für uns, für keines.", "english": "For me, for you, for us, for none." },
+      { "german": "Zwiebeln, Knoblauch, Öl in der Pfanne.", "english": "Onions, garlic, oil in the pan." },
+      { "german": "Der Duft zieht durch die ganze Wanne.", "english": "The aroma drifts through the whole room." },
+      { "german": "Tomaten, Kräuter, Salz und Pfeffer.", "english": "Tomatoes, herbs, salt and pepper." },
+      { "german": "Das Essen wird immer leckerer.", "english": "The food gets more and more delicious." },
+      { "german": "Kochen mit Liebe, Liebe im Essen.", "english": "Cooking with love, love in the food." },
+      { "german": "Das wird man nicht so schnell vergessen.", "english": "That will not be forgotten quickly." }
+    ]
+  },
+  {
+    "title": "Der Mond erzählt",
+    "topic": "Dreams",
+    "lyrics": [
+      { "german": "Der Mond erzählt mir alte Dinge.", "english": "The moon tells me old things." },
+      { "german": "Von fernen Ländern, alten Ringe.", "english": "Of distant lands, of old rings." },
+      { "german": "Er leuchtet silbern durch die Nacht.", "english": "He shines silver through the night." },
+      { "german": "Und hat mich schon so oft bedacht.", "english": "And has watched over me so often." },
+      { "german": "Ich schlafe ein bei seinem Schein.", "english": "I fall asleep in his glow." },
+      { "german": "Und träume schön, ganz tief, ganz rein.", "english": "And dream beautifully, deeply, purely." },
+      { "german": "Der Mond bleibt da die ganze Nacht.", "english": "The moon stays there the whole night." },
+      { "german": "Bis morgen früh das Licht erwacht.", "english": "Until tomorrow morning light awakens." }
+    ]
+  },
+  {
+    "title": "Schule macht Spaß",
+    "topic": "Education",
+    "lyrics": [
+      { "german": "Schule macht Spaß, wenn man es mag.", "english": "School is fun when you enjoy it." },
+      { "german": "Ich lerne was Neues jeden Tag.", "english": "I learn something new every day." },
+      { "german": "Mathe, Deutsch und auch Musik.", "english": "Maths, German and also music." },
+      { "german": "Jedes Fach hat seinen eigenen Trick.", "english": "Every subject has its own trick." },
+      { "german": "Die Lehrer helfen, wenn ich nicht weiß.", "english": "The teachers help when I do not know." },
+      { "german": "Mein Fleiß zahlt sich aus — ich weiß.", "english": "My diligence pays off — I know it." },
+      { "german": "Schule ist der Weg nach vorn.", "english": "School is the path forward." },
+      { "german": "Aus Wissen wird das Leben born.", "english": "From knowledge life is born." }
+    ]
+  },
+  {
+    "title": "Auf dem Bauernhof",
+    "topic": "Animals",
+    "lyrics": [
+      { "german": "Auf dem Bauernhof ist immer was los.", "english": "On the farm there is always something happening." },
+      { "german": "Die Kühe grasen auf dem Gras.", "english": "The cows graze on the grass." },
+      { "german": "Das Schwein liegt faul im warmen Schlamm.", "english": "The pig lies lazily in the warm mud." },
+      { "german": "Der Hahn kräht laut am frühen Damm.", "english": "The cockerel crows loudly at early dawn." },
+      { "german": "Die Hühner legen Eier frisch.", "english": "The hens lay fresh eggs." },
+      { "german": "Der Bauer deckt den Frühstückstisch.", "english": "The farmer sets the breakfast table." },
+      { "german": "Auf dem Bauernhof, so schön und weit.", "english": "On the farm, so beautiful and vast." },
+      { "german": "Hier ist das Leben voller Freud.", "english": "Here life is full of joy." }
+    ]
+  },
+  {
+    "title": "Mein Lieblingsrestaurant",
+    "topic": "Food",
+    "lyrics": [
+      { "german": "Ich gehe gern in mein Lieblingslokal.", "english": "I love going to my favourite restaurant." },
+      { "german": "Das Essen dort ist jedes Mal ein Spektakel.", "english": "The food there is a spectacle every time." },
+      { "german": "Der Koch kocht alles frisch und fein.", "english": "The chef cooks everything fresh and fine." },
+      { "german": "Das Schnitzel dort muss meines sein.", "english": "The schnitzel there must be mine." },
+      { "german": "Die Kellnerin lächelt und bringt das Bier.", "english": "The waitress smiles and brings the beer." },
+      { "german": "Ich fühle mich wohl — genau hier.", "english": "I feel comfortable — right here." },
+      { "german": "Mein Lieblingsrestaurant, mein Ort.", "english": "My favourite restaurant, my place." },
+      { "german": "Hierher komm ich immer gern fort.", "english": "I always love coming here." }
+    ]
+  },
+  {
+    "title": "Gesundheit ist Reichtum",
+    "topic": "Health",
+    "lyrics": [
+      { "german": "Gesundheit ist mein größter Schatz.", "english": "Health is my greatest treasure." },
+      { "german": "Dafür gibt es keinen Ersatz.", "english": "There is no substitute for it." },
+      { "german": "Ich schlafe gut, ich esse recht.", "english": "I sleep well, I eat right." },
+      { "german": "Mein Körper ist mein bester Knecht.", "english": "My body is my best servant." },
+      { "german": "Bewegung hält mich jung und fit.", "english": "Exercise keeps me young and fit." },
+      { "german": "Und gute Laune nehm ich mit.", "english": "And good spirits I take along." },
+      { "german": "Gesundheit, Gesundheit, du bist Gold.", "english": "Health, health, you are gold." },
+      { "german": "Auf dich bin ich wirklich stolz und hold.", "english": "I am truly proud of you and fond of you." }
+    ]
+  },
+  {
+    "title": "Die alte Brücke",
+    "topic": "Cities",
+    "lyrics": [
+      { "german": "Die alte Brücke über dem Fluss.", "english": "The old bridge over the river." },
+      { "german": "Sie trägt die Last ohne Verdruss.", "english": "It bears the weight without complaint." },
+      { "german": "Hundert Jahre, Sturm und Zeit.", "english": "A hundred years, storm and time." },
+      { "german": "Sie steht noch immer, weit und breit.", "english": "It still stands, far and wide." },
+      { "german": "Ich gehe langsam drüber her.", "english": "I walk slowly across it." },
+      { "german": "Und schau aufs Wasser, tief und schwer.", "english": "And look at the water, deep and heavy." },
+      { "german": "Alte Brücke, du erzählst so viel.", "english": "Old bridge, you tell so much." },
+      { "german": "Du bist für mich ein altes Ziel.", "english": "You are an old destination for me." }
+    ]
+  },
+  {
+    "title": "Wandern und Träumen",
+    "topic": "Nature",
+    "lyrics": [
+      { "german": "Ich wandre durch Wälder und Felder allein.", "english": "I hike through forests and fields alone." },
+      { "german": "Die Natur ruft mich, komm herein!", "english": "Nature calls me, come inside!" },
+      { "german": "Der Wind flüstert Worte in mein Ohr.", "english": "The wind whispers words into my ear." },
+      { "german": "Ich gehe, ich träume, ich gehe nach vorn.", "english": "I walk, I dream, I walk forward." },
+      { "german": "Auf Berggipfeln steh ich und schau weit.", "english": "On mountain peaks I stand and look far." },
+      { "german": "Diese Freiheit gibt mir Seligkeit.", "english": "This freedom gives me bliss." },
+      { "german": "Wandern und träumen, träumen und gehn.", "english": "Hiking and dreaming, dreaming and walking." },
+      { "german": "Das ist für mich das schönste Sehn.", "english": "That is for me the most beautiful sight." }
+    ]
+  },
+  {
+    "title": "Ein Brief an dich",
+    "topic": "Emotions",
+    "lyrics": [
+      { "german": "Ich schreibe dir einen Brief heute Nacht.", "english": "I write you a letter tonight." },
+      { "german": "Weil du mich so glücklich und fröhlich gemacht.", "english": "Because you made me so happy and joyful." },
+      { "german": "Die Worte fließen aus meinem Herz.", "english": "The words flow from my heart." },
+      { "german": "Ich schreibe dir ohne jeden Schmerz.", "english": "I write to you without any pain." },
+      { "german": "Ich hoffe, du liest es und lächelst dann.", "english": "I hope you read it and smile then." },
+      { "german": "Wie ich es mir immer nur wünschen kann.", "english": "As I can only ever wish." },
+      { "german": "Ein Brief, ein Wort, ein kleines Zeichen.", "english": "A letter, a word, a small sign." },
+      { "german": "Das kann tief in die Seele reichen.", "english": "That can reach deep into the soul." }
+    ]
+  },
+  {
+    "title": "Mein Fahrrad",
+    "topic": "Transport",
+    "lyrics": [
+      { "german": "Ich fahre mit dem Fahrrad durch die Stadt.", "english": "I cycle through the city." },
+      { "german": "Es macht mir Spaß, es macht mich satt.", "english": "It is fun, it satisfies me." },
+      { "german": "Kein Stau, kein Bus, nur Wind und Luft.", "english": "No traffic jam, no bus, just wind and air." },
+      { "german": "Das Rad trägt mich durch jeden Duft.", "english": "The bike carries me through every scent." },
+      { "german": "Berg hoch, Tal runter, immer weiter.", "english": "Hill up, valley down, always onwards." },
+      { "german": "Das Radfahren macht mich heiter.", "english": "Cycling makes me cheerful." },
+      { "german": "Mein Fahrrad ist mein treuer Freund.", "english": "My bicycle is my loyal friend." },
+      { "german": "Der mich durch Stadt und Land vereint.", "english": "Who unites me through city and countryside." }
+    ]
+  },
+  {
+    "title": "Technologie und Mensch",
+    "topic": "Technology",
+    "lyrics": [
+      { "german": "Das Handy liegt in meiner Hand.", "english": "The phone lies in my hand." },
+      { "german": "Es verbindet mich mit jedem Land.", "english": "It connects me with every country." },
+      { "german": "Mit einem Klick bin ich dabei.", "english": "With one click I am there." },
+      { "german": "Doch manchmal bin ich einfach nur frei.", "english": "But sometimes I am simply free." },
+      { "german": "Kein Bildschirm mehr, nur Himmel blau.", "english": "No screen any more, just blue sky." },
+      { "german": "Ich atme tief und schaue genau.", "english": "I breathe deeply and look carefully." },
+      { "german": "Technologie ist gut als Mittel.", "english": "Technology is good as a means." },
+      { "german": "Doch das Leben selbst ist kein Rätsel.", "english": "But life itself is no puzzle." }
+    ]
+  },
+  {
+    "title": "Danke, Mama",
+    "topic": "Family",
+    "lyrics": [
+      { "german": "Danke, Mama, für alles was du tust.", "english": "Thank you, Mum, for everything you do." },
+      { "german": "Du gibst mir Kraft, wenn ich es braucht.", "english": "You give me strength when I need it." },
+      { "german": "Du warst da, wenn ich geweint hab.", "english": "You were there when I cried." },
+      { "german": "Und hast mir Liebe weitergegeben hab.", "english": "And passed on love to me." },
+      { "german": "Deine Hände, warm und sicher.", "english": "Your hands, warm and safe." },
+      { "german": "Machen alles leichter, reicher.", "english": "Make everything lighter, richer." },
+      { "german": "Danke, Mama, ich liebe dich.", "english": "Thank you, Mum, I love you." },
+      { "german": "Du bist immer ein Teil von mir.", "english": "You are always a part of me." }
+    ]
+  },
+  {
+    "title": "Der Stadtpark",
+    "topic": "Cities",
+    "lyrics": [
+      { "german": "Im Stadtpark sitz ich auf einer Bank.", "english": "In the city park I sit on a bench." },
+      { "german": "Die Bäume spenden mir Schatten und Dank.", "english": "The trees give me shade and gratitude." },
+      { "german": "Kinder spielen, Hunde rennen.", "english": "Children play, dogs run." },
+      { "german": "Alte Leute reden und sich erkennen.", "english": "Old people talk and recognise each other." },
+      { "german": "Die Fontäne plätschert leise.", "english": "The fountain babbles quietly." },
+      { "german": "Ich ruh mich aus auf meine Weise.", "english": "I rest in my own way." },
+      { "german": "Der Stadtpark, grün mitten im Grau.", "english": "The city park, green in the midst of grey." },
+      { "german": "Ein Ort der Ruhe — ich schau genau.", "english": "A place of peace — I look carefully." }
+    ]
+  },
+  {
+    "title": "Träume wahr machen",
+    "topic": "Motivation",
+    "lyrics": [
+      { "german": "Ich habe einen Traum, er ist groß.", "english": "I have a dream, it is big." },
+      { "german": "Er lässt mich los und doch nicht los.", "english": "It lets me go and yet does not let me go." },
+      { "german": "Jeden Tag arbeite ich daran.", "english": "Every day I work towards it." },
+      { "german": "Bis mein Traum wahr werden kann.", "english": "Until my dream can come true." },
+      { "german": "Manchmal falle ich und steh wieder auf.", "english": "Sometimes I fall and stand up again." },
+      { "german": "Das Leben ist kein gerader Lauf.", "english": "Life is not a straight run." },
+      { "german": "Träume wahr machen, Schritt für Schritt.", "english": "Making dreams come true, step by step." },
+      { "german": "Ich nehme jeden Moment mit.", "english": "I embrace every moment." }
+    ]
+  },
+  {
+    "title": "Oktoberfest",
+    "topic": "Culture",
+    "lyrics": [
+      { "german": "O'zapft is! Das Fest beginnt!", "english": "It's tapped! The festival begins!" },
+      { "german": "Der Duft von Brezeln durch die Luft rinnt.", "english": "The scent of pretzels drifts through the air." },
+      { "german": "Lederhosen, Dirndl, Musik.", "english": "Lederhosen, dirndl, music." },
+      { "german": "Das Oktoberfest — was für ein Glück!", "english": "Oktoberfest — what good fortune!" },
+      { "german": "Die Kapelle spielt, wir singen laut.", "english": "The band plays, we sing loudly." },
+      { "german": "Ein Maßkrug — na, wem graut?", "english": "A litre mug — well, who is afraid?" },
+      { "german": "München feiert, München lacht.", "english": "Munich celebrates, Munich laughs." },
+      { "german": "Das Oktoberfest — ein Fest gemacht.", "english": "Oktoberfest — a festival made." }
+    ]
+  },
+  {
+    "title": "Vergänglichkeit",
+    "topic": "Philosophy",
+    "lyrics": [
+      { "german": "Alles geht, nichts bleibt für immer.", "english": "Everything passes, nothing stays forever." },
+      { "german": "Doch in der Erinnerung wird alles schlimmer.", "english": "Yet in memory everything becomes more intense." },
+      { "german": "Die Zeit läuft wie ein Fluss davon.", "english": "Time flows away like a river." },
+      { "german": "Doch was wir lieben, bleibt als Lohn.", "english": "Yet what we love remains as reward." },
+      { "german": "Genieß den Moment, leb jetzt und hier.", "english": "Enjoy the moment, live now and here." },
+      { "german": "Das Leben ist ein Fest — glaub mir.", "english": "Life is a celebration — believe me." },
+      { "german": "Vergänglichkeit lehrt uns das Lieben.", "english": "Transience teaches us how to love." },
+      { "german": "Was zählt, ist das, was wir geschrieben.", "english": "What counts is what we have written." }
+    ]
+  },
+  {
+    "title": "Der erste Schnee",
+    "topic": "Weather",
+    "lyrics": [
+      { "german": "Der erste Schnee fällt in der Nacht.", "english": "The first snow falls in the night." },
+      { "german": "Er hat die Welt so weiß gemacht.", "english": "It has made the world so white." },
+      { "german": "Ich stehe am Fenster und staune sehr.", "english": "I stand at the window and marvel greatly." },
+      { "german": "Die Stille draußen ist so leer.", "english": "The silence outside is so empty." },
+      { "german": "Kinder lachen, Schneebälle fliegen.", "english": "Children laugh, snowballs fly." },
+      { "german": "Im Schnee kann man so viel betrügen.", "english": "In the snow you can create so many tricks." },
+      { "german": "Der erste Schnee, so weiß und rein.", "english": "The first snow, so white and pure." },
+      { "german": "Ich will für immer ein Kind dabei sein.", "english": "I want to always be a child in it." }
+    ]
+  },
+  {
+    "title": "Morgendlicher Spaziergang",
+    "topic": "Daily Life",
+    "lyrics": [
+      { "german": "Ich gehe früh am Morgen spazieren.", "english": "I go for a walk early in the morning." },
+      { "german": "Die Vögel lassen Lieder regieren.", "english": "The birds let songs reign." },
+      { "german": "Der Tau liegt frisch auf dem Gras.", "english": "The dew lies fresh on the grass." },
+      { "german": "Ich atme tief — wie schön das was.", "english": "I breathe deeply — how beautiful that is." },
+      { "german": "Die Stadt erwacht ganz langsam noch.", "english": "The city awakens very slowly still." },
+      { "german": "Ein Bäcker öffnet sein Laden-Joch.", "english": "A baker opens his shop." },
+      { "german": "Morgendlicher Spaziergang, mein Ritual.", "english": "Morning walk, my ritual." },
+      { "german": "Er macht den Tag perfekt, jedes Mal.", "english": "It makes the day perfect, every time." }
+    ]
+  },
+  {
+    "title": "Wir sind verschieden",
+    "topic": "Society",
+    "lyrics": [
+      { "german": "Wir sind alle verschieden und doch gleich.", "english": "We are all different and yet the same." },
+      { "german": "Jeder Mensch ist ein eigenes Reich.", "english": "Every person is their own realm." },
+      { "german": "Verschiedene Farben, Kulturen, Sprachen.", "english": "Different colours, cultures, languages." },
+      { "german": "Zusammen können wir alles machen.", "english": "Together we can do everything." },
+      { "german": "Respekt und Liebe — das ist der Weg.", "english": "Respect and love — that is the way." },
+      { "german": "Jeder verdient seinen eigenen Steg.", "english": "Everyone deserves their own path." },
+      { "german": "Wir sind verschieden, wir sind eins.", "english": "We are different, we are one." },
+      { "german": "Die Welt ist unser — groß und rein.", "english": "The world is ours — great and pure." }
+    ]
+  },
+  {
+    "title": "Lebensfreude",
+    "topic": "Motivation",
+    "lyrics": [
+      { "german": "Lebensfreude ist ein Geschenk.", "english": "Joy of life is a gift." },
+      { "german": "Das jeden Tag mein Herz belenkt.", "english": "That guides my heart every day." },
+      { "german": "Ich lache laut, ich tanze frei.", "english": "I laugh loudly, I dance freely." },
+      { "german": "Kein Tag ist wie der andere bei.", "english": "No day is like any other." },
+      { "german": "Kleine Dinge machen mich froh.", "english": "Small things make me happy." },
+      { "german": "Ein Sonnenstrahl, ein Regenbogen — so.", "english": "A ray of sunshine, a rainbow — just so." },
+      { "german": "Lebensfreude, halte mich fest.", "english": "Joy of life, hold me tight." },
+      { "german": "Du bist mein schönstes innerstes Fest.", "english": "You are my most beautiful inner celebration." }
+    ]
+  },
+  {
+    "title": "Sprachreise",
+    "topic": "Learning",
+    "lyrics": [
+      { "german": "Ich lerne Sprachen, eine nach der anderen.", "english": "I learn languages, one after another." },
+      { "german": "Mein Kopf ist voll von fremden Wandern.", "english": "My head is full of foreign wanderings." },
+      { "german": "Deutsch, Englisch, Spanisch, Chinesisch.", "english": "German, English, Spanish, Chinese." },
+      { "german": "Jede Sprache macht mich riesig.", "english": "Every language makes me feel vast." },
+      { "german": "Neue Wörter, neue Welten.", "english": "New words, new worlds." },
+      { "german": "Die in meiner Seele gelten.", "english": "That count in my soul." },
+      { "german": "Sprachreise, eine Reise fürs Leben.", "english": "Language journey, a journey for life." },
+      { "german": "Die mir immer mehr kann geben.", "english": "That can always give me more." }
+    ]
+  },
+  {
+    "title": "Der Marktplatz",
+    "topic": "Cities",
+    "lyrics": [
+      { "german": "Am Marktplatz treffen sich die Leute.", "english": "At the market square people meet." },
+      { "german": "Jeden Tag — auch heute.", "english": "Every day — today too." },
+      { "german": "Der Brunnen plätschert in der Mitte.", "english": "The fountain babbles in the middle." },
+      { "german": "Ein alter Mann spielt eine alte Hitte.", "english": "An old man plays an old tune." },
+      { "german": "Händler rufen ihre Waren aus.", "english": "Traders call out their wares." },
+      { "german": "Das Leben strömt hier — kein Pause-Graus.", "english": "Life flows here — no dull pause." },
+      { "german": "Der Marktplatz lebt, er atmet, er singt.", "english": "The market square lives, it breathes, it sings." },
+      { "german": "Er ist der Ort, der alles bringt.", "english": "It is the place that brings everything together." }
+    ]
+  },
+  {
+    "title": "Ich vermisse dich",
+    "topic": "Emotions",
+    "lyrics": [
+      { "german": "Ich vermisse dich, wenn du nicht da bist.", "english": "I miss you when you are not here." },
+      { "german": "Wenn jeder Abend ohne dich verläuft.", "english": "When every evening passes without you." },
+      { "german": "Dein Lachen fehlt mir in der Stille.", "english": "Your laughter is missing in the silence." },
+      { "german": "Dein Atem, deine warme Hülle.", "english": "Your breath, your warm presence." },
+      { "german": "Ich schreibe dir und warte dann.", "english": "I write to you and then I wait." },
+      { "german": "Bis du zurückkommst, wann du kannst.", "english": "Until you come back, when you can." },
+      { "german": "Ich vermisse dich — das weißt du schon.", "english": "I miss you — you already know that." },
+      { "german": "Komm bald zurück, sei mein Lohn.", "english": "Come back soon, be my reward." }
+    ]
+  },
+  {
+    "title": "Mut haben",
+    "topic": "Motivation",
+    "lyrics": [
+      { "german": "Hab Mut, auch wenn der Weg ist weit.", "english": "Have courage, even when the way is long." },
+      { "german": "Der Anfang braucht nur Bereitschaft und Zeit.", "english": "The beginning only needs willingness and time." },
+      { "german": "Kein Fehler ist das Ende der Welt.", "english": "No mistake is the end of the world." },
+      { "german": "Du lernst dabei — das, was zählt.", "english": "You learn from it — that is what counts." },
+      { "german": "Steh auf, wenn du gefallen bist.", "english": "Stand up when you have fallen." },
+      { "german": "Du weißt, was wirklich wichtig ist.", "english": "You know what is truly important." },
+      { "german": "Hab Mut, hab Glaube, hab Vertrauen.", "english": "Have courage, have faith, have trust." },
+      { "german": "Du kannst dir eine Zukunft bauen.", "english": "You can build yourself a future." }
+    ]
+  },
+  {
+    "title": "Die Bahn fährt ab",
+    "topic": "Transport",
+    "lyrics": [
+      { "german": "Die Bahn fährt ab um Punkt acht Uhr.", "english": "The train departs at exactly eight o'clock." },
+      { "german": "Ich renne noch — ich folge ihrer Spur.", "english": "I still run — I follow its trail." },
+      { "german": "Die Türen schließen, ich spring hinein.", "english": "The doors close, I jump inside." },
+      { "german": "Das kann ja wohl nicht wahr sein!", "english": "That really cannot be true!" },
+      { "german": "Geschafft! Ich sitze, atme tief.", "english": "Made it! I sit down, breathe deeply." },
+      { "german": "Wie gut, dass ich so schnell noch lief.", "english": "How good that I still ran so fast." },
+      { "german": "Die Bahn fährt ab — ich fahre mit.", "english": "The train departs — I travel with it." },
+      { "german": "Ich nehme jeden Moment, jeden Schritt.", "english": "I take every moment, every step." }
+    ]
+  },
+  {
+    "title": "Das Leben ist ein Lied",
+    "topic": "Philosophy",
+    "lyrics": [
+      { "german": "Das Leben ist ein Lied, das klingt.", "english": "Life is a song that sounds." },
+      { "german": "Manchmal laut, manchmal leise, das es bringt.", "english": "Sometimes loud, sometimes quiet, it brings." },
+      { "german": "Jeder Mensch ist eine Note drin.", "english": "Every person is a note within it." },
+      { "german": "Zusammen ergibt sich ein Sinn.", "english": "Together a meaning emerges." },
+      { "german": "Lach, wein, tanz und sing.", "english": "Laugh, cry, dance and sing." },
+      { "german": "Leb das Leben, was es auch bring.", "english": "Live life, whatever it brings." },
+      { "german": "Das Leben ist ein Lied — sing mit!", "english": "Life is a song — sing along!" },
+      { "german": "Jeder Ton zählt, jeden Schritt.", "english": "Every note counts, every step." }
+    ]
+  },
+  {
+    "title": "Wintermorgen",
+    "topic": "Weather",
+    "lyrics": [
+      { "german": "Der Wintermorgen ist kalt und klar.", "english": "The winter morning is cold and clear." },
+      { "german": "Mein Atem dampft — wie wunderbar.", "english": "My breath steams — how wonderful." },
+      { "german": "Eis auf den Pfützen, Frost im Gras.", "english": "Ice on the puddles, frost on the grass." },
+      { "german": "Ich wickle mich warm — ich tu das.", "english": "I wrap up warm — I do that." },
+      { "german": "Stiefel, Schal und warme Mütze.", "english": "Boots, scarf and warm hat." },
+      { "german": "Der Winter hat auch seine Würze.", "english": "Winter also has its spice." },
+      { "german": "Wintermorgen, still und weiß.", "english": "Winter morning, still and white." },
+      { "german": "Ich liebe dich — das ist mein Preis.", "english": "I love you — that is my vow." }
+    ]
+  },
+  {
+    "title": "Farben der Welt",
+    "topic": "Children",
+    "lyrics": [
+      { "german": "Die Welt ist bunt, so viele Farben!", "english": "The world is colourful, so many colours!" },
+      { "german": "Rot, gelb, blau — kein Grau zum Knurren.", "english": "Red, yellow, blue — no grey to grumble about." },
+      { "german": "Grün wie die Wiese, blau wie das Meer.", "english": "Green like the meadow, blue like the sea." },
+      { "german": "Ich male die Welt bunt — immer mehr.", "english": "I paint the world colourfully — more and more." },
+      { "german": "Orange wie die Sonne, weiß wie der Schnee.", "english": "Orange like the sun, white like the snow." },
+      { "german": "Lila wie die Blumen — oh wie schön!", "english": "Purple like the flowers — oh how beautiful!" },
+      { "german": "Farben der Welt, ihr macht mich froh.", "english": "Colours of the world, you make me happy." },
+      { "german": "Mit euch ist das Leben wunderbar — so!", "english": "With you life is wonderful — just so!" }
+    ]
+  },
+  {
+    "title": "Abendstimmung",
+    "topic": "Daily Life",
+    "lyrics": [
+      { "german": "Der Abend kommt mit sanftem Licht.", "english": "Evening comes with gentle light." },
+      { "german": "Die Sonne sinkt, das Tagwerk bricht.", "english": "The sun sinks, the day's work ends." },
+      { "german": "Ich sitze still auf meinem Platz.", "english": "I sit quietly in my spot." },
+      { "german": "Und spüre tief des Lebens Schatz.", "english": "And feel deeply life's treasure." },
+      { "german": "Ein Glas Wein, ein gutes Buch.", "english": "A glass of wine, a good book." },
+      { "german": "Der Abend ist mein stiller Fluch.", "english": "The evening is my quiet refuge." },
+      { "german": "Abendstimmung, golden und warm.", "english": "Evening mood, golden and warm." },
+      { "german": "Kein Stress, kein Lärm — kein Alarm.", "english": "No stress, no noise — no alarm." }
+    ]
+  },
+  {
+    "title": "Zusammen stark",
+    "topic": "Society",
+    "lyrics": [
+      { "german": "Allein bist du stark, zusammen stärker.", "english": "Alone you are strong, together stronger." },
+      { "german": "Das Leben wird täglich merker.", "english": "Life notices this more every day." },
+      { "german": "Wir helfen uns, wir stehen ein.", "english": "We help each other, we stand up for one another." },
+      { "german": "Kein Mensch muss jemals allein sein.", "english": "No person ever has to be alone." },
+      { "german": "Gemeinschaft trägt uns durch die Zeit.", "english": "Community carries us through time." },
+      { "german": "Sie gibt uns Kraft und Sicherheit.", "english": "It gives us strength and security." },
+      { "german": "Zusammen stark — das ist unser Lied.", "english": "Together strong — that is our song." },
+      { "german": "Das uns verbindet und uns zieht.", "english": "That connects us and draws us together." }
+    ]
+  },
+  {
+    "title": "Mein Lieblingsbuch",
+    "topic": "Education",
+    "lyrics": [
+      { "german": "Ich öffne mein Lieblingsbuch und lese.", "english": "I open my favourite book and read." },
+      { "german": "Die Worte tragen mich in fremde Wiese.", "english": "The words carry me to foreign meadows." },
+      { "german": "Geschichten, Welten, Abenteuer.", "english": "Stories, worlds, adventures." },
+      { "german": "Bücher sind mein größtes Feuer.", "english": "Books are my greatest fire." },
+      { "german": "Ich vergesse Zeit, ich vergesse Ort.", "english": "I forget time, I forget place." },
+      { "german": "Die Geschichte trägt mich immer fort.", "english": "The story always carries me away." },
+      { "german": "Mein Lieblingsbuch, mein stiller Freund.", "english": "My favourite book, my quiet friend." },
+      { "german": "Der mich mit der ganzen Welt vereint.", "english": "Who unites me with the whole world." }
+    ]
+  },
+  {
+    "title": "Herzschlag",
+    "topic": "Love",
+    "lyrics": [
+      { "german": "Wenn ich dich sehe, schlägt mein Herz.", "english": "When I see you, my heart beats." },
+      { "german": "Vor Freude, Glück und ohne Schmerz.", "english": "With joy, happiness and without pain." },
+      { "german": "Dein Name klingt wie Musik für mich.", "english": "Your name sounds like music to me." },
+      { "german": "Ich denke jeden Tag an dich.", "english": "I think of you every day." },
+      { "german": "Ein Blick von dir macht alles gut.", "english": "One look from you makes everything good." },
+      { "german": "Du gibst mir Kraft, du gibst mir Mut.", "english": "You give me strength, you give me courage." },
+      { "german": "Herzschlag, Herzschlag — nur für dich.", "english": "Heartbeat, heartbeat — only for you." },
+      { "german": "Du bist das Beste, was gibt es für mich.", "english": "You are the best thing there is for me." }
+    ]
+  }
+]

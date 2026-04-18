@@ -1,0 +1,345 @@
+[
+  {
+    "title": "Ein Morgen in Berlin",
+    "topic": "Daily Life",
+    "level": "Beginner",
+    "content": [
+      { "german": "Es ist sieben Uhr morgens.", "english": "It is seven o'clock in the morning." },
+      { "german": "Thomas wacht auf und streckt sich.", "english": "Thomas wakes up and stretches." },
+      { "german": "Er geht in die Küche und macht Kaffee.", "english": "He goes to the kitchen and makes coffee." },
+      { "german": "Er isst ein Brötchen mit Butter.", "english": "He eats a bread roll with butter." },
+      { "german": "Dann duscht er und zieht sich an.", "english": "Then he showers and gets dressed." },
+      { "german": "Er nimmt die U-Bahn zur Arbeit.", "english": "He takes the underground to work." },
+      { "german": "Die U-Bahn ist sehr voll heute.", "english": "The underground is very full today." },
+      { "german": "Er liest die Zeitung während der Fahrt.", "english": "He reads the newspaper during the journey." },
+      { "german": "Um halb neun kommt er im Büro an.", "english": "At half past eight he arrives at the office." },
+      { "german": "Er sagt guten Morgen zu seinen Kollegen.", "english": "He says good morning to his colleagues." }
+    ]
+  },
+  {
+    "title": "Im Supermarkt",
+    "topic": "Shopping",
+    "level": "Beginner",
+    "content": [
+      { "german": "Anna braucht Lebensmittel für die Woche.", "english": "Anna needs groceries for the week." },
+      { "german": "Sie geht in den Supermarkt um die Ecke.", "english": "She goes to the supermarket around the corner." },
+      { "german": "Zuerst nimmt sie einen Einkaufswagen.", "english": "First she takes a shopping trolley." },
+      { "german": "Sie kauft Brot, Milch, Eier und Käse.", "english": "She buys bread, milk, eggs and cheese." },
+      { "german": "Dann geht sie zur Obst- und Gemüseabteilung.", "english": "Then she goes to the fruit and vegetable section." },
+      { "german": "Sie wählt Äpfel, Tomaten und Karotten.", "english": "She chooses apples, tomatoes and carrots." },
+      { "german": "An der Kasse wartet sie kurz.", "english": "At the checkout she waits briefly." },
+      { "german": "Die Kassiererin scannt alles schnell.", "english": "The cashier scans everything quickly." },
+      { "german": "Anna zahlt mit ihrer Karte.", "english": "Anna pays with her card." },
+      { "german": "Sie packt alles in ihre Tasche und geht nach Hause.", "english": "She packs everything into her bag and goes home." }
+    ]
+  },
+  {
+    "title": "Der erste Schultag",
+    "topic": "School",
+    "level": "Beginner",
+    "content": [
+      { "german": "Heute ist Lukas erster Schultag.", "english": "Today is Lukas's first day of school." },
+      { "german": "Er ist aufgeregt und ein bisschen nervös.", "english": "He is excited and a little nervous." },
+      { "german": "Seine Mutter bringt ihn zur Schule.", "english": "His mother takes him to school." },
+      { "german": "Vor dem Schultor stehen viele Kinder.", "english": "In front of the school gate there are many children." },
+      { "german": "Die Lehrerin heißt Frau Müller.", "english": "The teacher's name is Mrs Müller." },
+      { "german": "Sie begrüßt alle Kinder freundlich.", "english": "She greets all the children in a friendly way." },
+      { "german": "Lukas sitzt neben einem Jungen namens Felix.", "english": "Lukas sits next to a boy called Felix." },
+      { "german": "Felix lächelt und sagt Hallo.", "english": "Felix smiles and says hello." },
+      { "german": "Sie lernen die Buchstaben des Alphabets.", "english": "They learn the letters of the alphabet." },
+      { "german": "Nach der Schule erzählt Lukas seiner Mutter alles.", "english": "After school Lukas tells his mother everything." }
+    ]
+  },
+  {
+    "title": "Eine Reise nach Hamburg",
+    "topic": "Travel",
+    "level": "Beginner",
+    "content": [
+      { "german": "Maria fährt am Wochenende nach Hamburg.", "english": "Maria is travelling to Hamburg at the weekend." },
+      { "german": "Sie kauft eine Bahnfahrkarte online.", "english": "She buys a train ticket online." },
+      { "german": "Der Zug fährt um 9 Uhr ab.", "english": "The train departs at 9 o'clock." },
+      { "german": "Die Fahrt dauert zwei Stunden.", "english": "The journey takes two hours." },
+      { "german": "In Hamburg geht sie zum Hafen.", "english": "In Hamburg she goes to the harbour." },
+      { "german": "Das Wasser glänzt in der Sonne.", "english": "The water glistens in the sun." },
+      { "german": "Sie isst Fischbrötchen am Hafen.", "english": "She eats fish rolls at the harbour." },
+      { "german": "Dann besucht sie die Speicherstadt.", "english": "Then she visits the Speicherstadt warehouse district." },
+      { "german": "Am Abend geht sie in ein Restaurant.", "english": "In the evening she goes to a restaurant." },
+      { "german": "Sie kommt glücklich nach Hause zurück.", "english": "She comes home happily." }
+    ]
+  },
+  {
+    "title": "Das Vorstellungsgespräch",
+    "topic": "Work",
+    "level": "Intermediate",
+    "content": [
+      { "german": "Heute hat Sabine ein Vorstellungsgespräch.", "english": "Today Sabine has a job interview." },
+      { "german": "Sie hat sich auf eine Stelle als Marketingmanagerin beworben.", "english": "She has applied for a position as a marketing manager." },
+      { "german": "Sie zieht sich professionell an.", "english": "She dresses professionally." },
+      { "german": "Im Büro wird sie freundlich empfangen.", "english": "At the office she is received in a friendly manner." },
+      { "german": "Der Personalleiter stellt ihr viele Fragen.", "english": "The HR manager asks her many questions." },
+      { "german": "Sie erklärt ihre bisherigen Erfahrungen.", "english": "She explains her previous experience." },
+      { "german": "Sie spricht über ihre Stärken und Schwächen.", "english": "She talks about her strengths and weaknesses." },
+      { "german": "Am Ende stellt sie selbst einige Fragen.", "english": "At the end she herself asks a few questions." },
+      { "german": "Der Personalleiter sagt, sie werden sich melden.", "english": "The HR manager says they will be in touch." },
+      { "german": "Drei Tage später bekommt sie das Jobangebot.", "english": "Three days later she receives the job offer." },
+      { "german": "Sie ist überglücklich und nimmt es sofort an.", "english": "She is overjoyed and accepts it immediately." },
+      { "german": "Ihre neue Stelle beginnt nächsten Monat.", "english": "Her new position starts next month." }
+    ]
+  },
+  {
+    "title": "Ein Abend mit Freunden",
+    "topic": "Social Life",
+    "level": "Intermediate",
+    "content": [
+      { "german": "Freitag Abend treffen sich vier Freunde.", "english": "On Friday evening four friends meet up." },
+      { "german": "Sie kochen zusammen bei Jonas zu Hause.", "english": "They cook together at Jonas's home." },
+      { "german": "Jonas macht Pasta, Lea bereitet den Salat zu.", "english": "Jonas makes pasta, Lea prepares the salad." },
+      { "german": "Tim öffnet eine Flasche Wein.", "english": "Tim opens a bottle of wine." },
+      { "german": "Sie reden über ihre Woche.", "english": "They talk about their week." },
+      { "german": "Lea erzählt eine lustige Geschichte.", "english": "Lea tells a funny story." },
+      { "german": "Alle lachen herzlich.", "english": "Everyone laughs warmly." },
+      { "german": "Nach dem Essen spielen sie ein Brettspiel.", "english": "After eating they play a board game." },
+      { "german": "Jonas gewinnt und ist sehr stolz.", "english": "Jonas wins and is very proud." },
+      { "german": "Gegen Mitternacht verabschieden sich alle.", "english": "Around midnight everyone says goodbye." },
+      { "german": "Es war ein schöner Abend.", "english": "It was a lovely evening." },
+      { "german": "Sie verabreden sich für nächste Woche wieder.", "english": "They arrange to meet again next week." }
+    ]
+  },
+  {
+    "title": "Der Arztbesuch",
+    "topic": "Health",
+    "level": "Intermediate",
+    "content": [
+      { "german": "Klaus fühlt sich seit drei Tagen nicht gut.", "english": "Klaus has not been feeling well for three days." },
+      { "german": "Er hat Halsschmerzen und leichtes Fieber.", "english": "He has a sore throat and a slight fever." },
+      { "german": "Er ruft in der Arztpraxis an und macht einen Termin.", "english": "He calls the doctor's surgery and makes an appointment." },
+      { "german": "Am nächsten Morgen geht er zum Arzt.", "english": "The next morning he goes to the doctor." },
+      { "german": "Im Wartezimmer sitzen noch andere Patienten.", "english": "In the waiting room there are other patients." },
+      { "german": "Nach zwanzig Minuten wird er aufgerufen.", "english": "After twenty minutes he is called." },
+      { "german": "Der Arzt untersucht seinen Hals und seine Lungen.", "english": "The doctor examines his throat and lungs." },
+      { "german": "Er diagnostiziert eine leichte Erkältung.", "english": "He diagnoses a mild cold." },
+      { "german": "Der Arzt verschreibt ihm ein Antibiotikum.", "english": "The doctor prescribes him an antibiotic." },
+      { "german": "Er empfiehlt außerdem viel Ruhe und Flüssigkeit.", "english": "He also recommends plenty of rest and fluids." },
+      { "german": "Klaus geht zur Apotheke und holt das Medikament.", "english": "Klaus goes to the pharmacy and collects the medication." },
+      { "german": "Nach einer Woche geht es ihm viel besser.", "english": "After a week he is feeling much better." }
+    ]
+  },
+  {
+    "title": "Das neue Apartment",
+    "topic": "Home",
+    "level": "Intermediate",
+    "content": [
+      { "german": "Julia zieht in eine neue Wohnung.", "english": "Julia is moving into a new flat." },
+      { "german": "Die Wohnung hat drei Zimmer und einen Balkon.", "english": "The flat has three rooms and a balcony." },
+      { "german": "Sie ist im vierten Stock ohne Aufzug.", "english": "It is on the fourth floor without a lift." },
+      { "german": "Freunde helfen ihr beim Umzug.", "english": "Friends help her with the move." },
+      { "german": "Sie tragen viele Kisten die Treppen hoch.", "english": "They carry many boxes up the stairs." },
+      { "german": "Das Sofa passt kaum durch die Tür.", "english": "The sofa barely fits through the door." },
+      { "german": "Am Ende stellen sie die Möbel auf.", "english": "In the end they set up the furniture." },
+      { "german": "Julia hängt ihre Bilder an die Wand.", "english": "Julia hangs her pictures on the wall." },
+      { "german": "Zum Dank bestellt sie Pizza für alle.", "english": "As a thank you she orders pizza for everyone." },
+      { "german": "Abends sitzt sie allein auf dem Balkon.", "english": "In the evening she sits alone on the balcony." },
+      { "german": "Die Stadt leuchtet unter ihr.", "english": "The city glows beneath her." },
+      { "german": "Sie ist sehr glücklich in ihrer neuen Heimat.", "english": "She is very happy in her new home." }
+    ]
+  },
+  {
+    "title": "Der Klimawandel",
+    "topic": "Environment",
+    "level": "Advanced",
+    "content": [
+      { "german": "Der Klimawandel ist eine der dringlichsten Herausforderungen unserer Zeit.", "english": "Climate change is one of the most urgent challenges of our time." },
+      { "german": "Die globale Durchschnittstemperatur steigt seit Jahrzehnten.", "english": "The global average temperature has been rising for decades." },
+      { "german": "Die Hauptursache ist der Ausstoß von Treibhausgasen.", "english": "The main cause is the emission of greenhouse gases." },
+      { "german": "Kohle, Öl und Gas sind die größten Verursacher.", "english": "Coal, oil and gas are the biggest culprits." },
+      { "german": "Die Folgen sind extreme Wetterereignisse und steigende Meeresspiegel.", "english": "The consequences are extreme weather events and rising sea levels." },
+      { "german": "Viele Tierarten sind vom Aussterben bedroht.", "english": "Many animal species are threatened with extinction." },
+      { "german": "Regierungen weltweit diskutieren über Lösungen.", "english": "Governments worldwide are discussing solutions." },
+      { "german": "Das Pariser Abkommen setzt Ziele zur CO₂-Reduzierung.", "english": "The Paris Agreement sets goals for CO₂ reduction." },
+      { "german": "Erneuerbare Energien wie Solar und Wind gewinnen an Bedeutung.", "english": "Renewable energies such as solar and wind are gaining importance." },
+      { "german": "Jeder Einzelne kann durch bewusstes Handeln einen Beitrag leisten.", "english": "Every individual can contribute through conscious action." },
+      { "german": "Weniger Fleisch zu essen reduziert den CO₂-Fußabdruck.", "english": "Eating less meat reduces your carbon footprint." },
+      { "german": "Die Zukunft der Erde liegt in unseren Händen.", "english": "The future of the earth is in our hands." }
+    ]
+  },
+  {
+    "title": "Startup-Kultur in Deutschland",
+    "topic": "Business",
+    "level": "Advanced",
+    "content": [
+      { "german": "Berlin ist eines der führenden Startup-Zentren Europas.", "english": "Berlin is one of Europe's leading startup hubs." },
+      { "german": "Jedes Jahr gründen Tausende junger Menschen ihr eigenes Unternehmen.", "english": "Every year thousands of young people found their own companies." },
+      { "german": "Investoren aus der ganzen Welt fließen Kapital in deutsche Startups.", "english": "Investors from around the world pour capital into German startups." },
+      { "german": "Die Unternehmenskultur ist oft flach und kreativ.", "english": "The company culture is often flat and creative." },
+      { "german": "Mitarbeiter werden häufig mit Aktienoptionen belohnt.", "english": "Employees are often rewarded with stock options." },
+      { "german": "Scheitern gilt zunehmend als Lernmöglichkeit.", "english": "Failure is increasingly seen as a learning opportunity." },
+      { "german": "Viele Gründer kommen aus dem universitären Umfeld.", "english": "Many founders come from a university background." },
+      { "german": "Digitalisierung und KI sind die wichtigsten Trendthemen.", "english": "Digitalisation and AI are the most important trending topics." },
+      { "german": "Die Bundesregierung fördert Startups mit speziellen Programmen.", "english": "The federal government supports startups with special programmes." },
+      { "german": "Hamburg und München sind ebenfalls starke Startup-Standorte.", "english": "Hamburg and Munich are also strong startup locations." },
+      { "german": "Die Herausforderung bleibt, internationale Talente anzuziehen.", "english": "The challenge remains attracting international talent." },
+      { "german": "Trotzdem wächst das deutsche Ökosystem jedes Jahr.", "english": "Nevertheless the German ecosystem grows every year." }
+    ]
+  },
+  {
+    "title": "Liebe auf den ersten Blick",
+    "topic": "Romance",
+    "level": "Intermediate",
+    "content": [
+      { "german": "Leon sah sie zum ersten Mal in der Bibliothek.", "english": "Leon saw her for the first time in the library." },
+      { "german": "Sie las ein dickes Buch und lächelte leise.", "english": "She was reading a thick book and smiling quietly." },
+      { "german": "Er traute sich kaum, sie anzusprechen.", "english": "He barely dared to speak to her." },
+      { "german": "Schließlich fragte er, welches Buch sie lese.", "english": "Finally he asked which book she was reading." },
+      { "german": "Sie hob den Blick und ihre Augen trafen sich.", "english": "She looked up and their eyes met." },
+      { "german": "Ihr Name war Clara und sie studierte Literatur.", "english": "Her name was Clara and she was studying literature." },
+      { "german": "Sie sprachen eine Stunde lang über Bücher.", "english": "They talked for an hour about books." },
+      { "german": "Beim Abschied fragte er nach ihrer Nummer.", "english": "When saying goodbye he asked for her number." },
+      { "german": "Sie gab sie ihm mit einem Lächeln.", "english": "She gave it to him with a smile." },
+      { "german": "Noch am selben Abend schrieb er ihr eine Nachricht.", "english": "That same evening he sent her a message." },
+      { "german": "Heute, drei Jahre später, leben sie zusammen.", "english": "Today, three years later, they live together." },
+      { "german": "Die Bibliothek besuchen sie noch immer jeden Samstag.", "english": "They still visit the library every Saturday." }
+    ]
+  },
+  {
+    "title": "Fußball in Deutschland",
+    "topic": "Sport",
+    "level": "Beginner",
+    "content": [
+      { "german": "Fußball ist der beliebteste Sport in Deutschland.", "english": "Football is the most popular sport in Germany." },
+      { "german": "Jedes Wochenende spielen Millionen Menschen Fußball.", "english": "Every weekend millions of people play football." },
+      { "german": "Die Bundesliga ist die erste deutsche Fußballliga.", "english": "The Bundesliga is the first German football league." },
+      { "german": "Bayern München ist der erfolgreichste Verein.", "english": "Bayern Munich is the most successful club." },
+      { "german": "Das Stadion fasst über 70.000 Zuschauer.", "english": "The stadium holds more than 70,000 spectators." },
+      { "german": "Die Fans singen laut und schwenken Fahnen.", "english": "The fans sing loudly and wave flags." },
+      { "german": "Ein Spiel dauert 90 Minuten.", "english": "A match lasts 90 minutes." },
+      { "german": "Bei einem Tor jubelt das ganze Stadion.", "english": "When a goal is scored the whole stadium cheers." },
+      { "german": "Deutschland hat die Weltmeisterschaft viermal gewonnen.", "english": "Germany has won the World Cup four times." },
+      { "german": "Fußball verbindet Menschen aus allen Teilen des Landes.", "english": "Football connects people from all parts of the country." }
+    ]
+  },
+  {
+    "title": "Ein Tag auf dem Markt",
+    "topic": "Daily Life",
+    "level": "Beginner",
+    "content": [
+      { "german": "Jeden Samstag gibt es einen Markt im Stadtzentrum.", "english": "Every Saturday there is a market in the town centre." },
+      { "german": "Die Stände sind bunt und voller frischer Waren.", "english": "The stalls are colourful and full of fresh goods." },
+      { "german": "Ein Bauer verkauft frisches Gemüse und Obst.", "english": "A farmer sells fresh vegetables and fruit." },
+      { "german": "Der Käsestand duftet wunderbar.", "english": "The cheese stall smells wonderful." },
+      { "german": "Sophie probiert ein Stück Gouda.", "english": "Sophie tries a piece of Gouda." },
+      { "german": "Sie kauft auch frische Blumen für ihre Wohnung.", "english": "She also buys fresh flowers for her flat." },
+      { "german": "Ein Bäcker bietet warmes Brot an.", "english": "A baker offers warm bread." },
+      { "german": "Sophie kauft ein Roggenbrot und ein paar Brötchen.", "english": "Sophie buys a rye loaf and a few rolls." },
+      { "german": "Sie bezahlt mit Bargeld.", "english": "She pays with cash." },
+      { "german": "Der Markt macht ihr jedes Mal Spaß.", "english": "She enjoys the market every time." }
+    ]
+  },
+  {
+    "title": "Studium in Deutschland",
+    "topic": "Education",
+    "level": "Intermediate",
+    "content": [
+      { "german": "Deutschland hat viele renommierte Universitäten.", "english": "Germany has many renowned universities." },
+      { "german": "Das Studium ist an staatlichen Unis oft kostenlos.", "english": "Studying at public universities is often free of charge." },
+      { "german": "Viele internationale Studenten kommen nach Deutschland.", "english": "Many international students come to Germany." },
+      { "german": "Man braucht gute Deutschkenntnisse für die meisten Studiengänge.", "english": "You need good German skills for most degree programmes." },
+      { "german": "Es gibt Bachelor-, Master- und Promotionsprogramme.", "english": "There are bachelor's, master's and doctoral programmes." },
+      { "german": "Studenten wohnen oft in Wohnheimen oder WGs.", "english": "Students often live in dormitories or shared flats." },
+      { "german": "Das Studentenleben ist abwechslungsreich und spannend.", "english": "Student life is varied and exciting." },
+      { "german": "Viele Studenten jobben neben dem Studium.", "english": "Many students work part-time alongside their studies." },
+      { "german": "Prüfungen sind oft schriftlich und sehr anspruchsvoll.", "english": "Exams are often written and very demanding." },
+      { "german": "Nach dem Abschluss haben Absolventen gute Jobchancen.", "english": "After graduation graduates have good job prospects." },
+      { "german": "Deutschland investiert stark in Forschung und Bildung.", "english": "Germany invests heavily in research and education." },
+      { "german": "Ein Auslandssemester ist bei Studenten sehr beliebt.", "english": "A semester abroad is very popular among students." }
+    ]
+  },
+  {
+    "title": "Weihnachten in Deutschland",
+    "topic": "Culture",
+    "level": "Beginner",
+    "content": [
+      { "german": "Weihnachten ist das wichtigste Fest des Jahres in Deutschland.", "english": "Christmas is the most important celebration of the year in Germany." },
+      { "german": "Die Vorbereitungen beginnen schon im November.", "english": "Preparations begin as early as November." },
+      { "german": "Überall gibt es Weihnachtsmärkte.", "english": "Everywhere there are Christmas markets." },
+      { "german": "Man trinkt heißen Glühwein und isst Lebkuchen.", "english": "People drink hot mulled wine and eat gingerbread." },
+      { "german": "Die Kinder basteln Adventskranz und Kalender.", "english": "Children make Advent wreaths and calendars." },
+      { "german": "Am 24. Dezember feiert man den Heiligabend.", "english": "On 24 December Christmas Eve is celebrated." },
+      { "german": "Die Familie sitzt zusammen am Tisch.", "english": "The family sits together at the table." },
+      { "german": "Man singt Weihnachtslieder und tauscht Geschenke aus.", "english": "People sing Christmas songs and exchange gifts." },
+      { "german": "Der Weihnachtsbaum leuchtet im Wohnzimmer.", "english": "The Christmas tree glows in the living room." },
+      { "german": "Kinder freuen sich sehr auf den Nikolaus.", "english": "Children are very excited about St Nicholas." }
+    ]
+  },
+  {
+    "title": "Digitales Leben",
+    "topic": "Technology",
+    "level": "Advanced",
+    "content": [
+      { "german": "Smartphones sind aus unserem Alltag nicht mehr wegzudenken.", "english": "Smartphones have become indispensable in our daily lives." },
+      { "german": "Wir kommunizieren, arbeiten und shoppen über unsere Geräte.", "english": "We communicate, work and shop through our devices." },
+      { "german": "Social Media beeinflusst, wie wir die Welt wahrnehmen.", "english": "Social media influences how we perceive the world." },
+      { "german": "Algorithmen bestimmen, welche Inhalte wir sehen.", "english": "Algorithms determine which content we see." },
+      { "german": "Das wirft Fragen zum Datenschutz auf.", "english": "This raises questions about data protection." },
+      { "german": "Viele Menschen verbringen mehr als sechs Stunden täglich online.", "english": "Many people spend more than six hours online daily." },
+      { "german": "Digitale Entgiftung wird immer populärer.", "english": "Digital detox is becoming increasingly popular." },
+      { "german": "Experten warnen vor den Folgen übermäßiger Bildschirmzeit.", "english": "Experts warn about the effects of excessive screen time." },
+      { "german": "Gleichzeitig eröffnet das Internet neue Lernmöglichkeiten.", "english": "At the same time the internet opens up new learning opportunities." },
+      { "german": "Online-Kurse und Tutorials sind für jeden zugänglich.", "english": "Online courses and tutorials are accessible to everyone." },
+      { "german": "Die Grenze zwischen digitalem und realem Leben verschwimmt.", "english": "The boundary between digital and real life is blurring." },
+      { "german": "Wir müssen lernen, Technologie bewusst einzusetzen.", "english": "We must learn to use technology consciously." }
+    ]
+  },
+  {
+    "title": "Eine Wanderung im Schwarzwald",
+    "topic": "Nature",
+    "level": "Intermediate",
+    "content": [
+      { "german": "Der Schwarzwald liegt im Südwesten Deutschlands.", "english": "The Black Forest is in the southwest of Germany." },
+      { "german": "Er ist bekannt für dichte Wälder und malerische Dörfer.", "english": "It is known for dense forests and picturesque villages." },
+      { "german": "Paul und Nina starten früh morgens zur Wanderung.", "english": "Paul and Nina set off early in the morning for the hike." },
+      { "german": "Der Weg führt durch Tannen und Fichten.", "english": "The path leads through firs and spruces." },
+      { "german": "Die Luft ist frisch und riecht nach Harz.", "english": "The air is fresh and smells of resin." },
+      { "german": "An einem Bach machen sie Pause.", "english": "They take a break at a stream." },
+      { "german": "Nina trinkt Wasser direkt aus dem klaren Bach.", "english": "Nina drinks water directly from the clear stream." },
+      { "german": "Von einem Aussichtspunkt sehen sie das ganze Tal.", "english": "From a viewpoint they can see the whole valley." },
+      { "german": "Die Sonne scheint durch die Baumwipfel.", "english": "The sun shines through the treetops." },
+      { "german": "Nach fünf Stunden erreichen sie ihr Ziel.", "english": "After five hours they reach their destination." },
+      { "german": "Sie essen Schwarzwälder Kirschtorte in einem Café.", "english": "They eat Black Forest gateau in a café." },
+      { "german": "Es war ein unvergesslicher Tag in der Natur.", "english": "It was an unforgettable day in nature." }
+    ]
+  },
+  {
+    "title": "Der alte Brieffreund",
+    "topic": "Friendship",
+    "level": "Intermediate",
+    "content": [
+      { "german": "Als Kinder schrieben Michael und Pierre sich Briefe.", "english": "As children Michael and Pierre wrote letters to each other." },
+      { "german": "Michael war aus Deutschland, Pierre aus Frankreich.", "english": "Michael was from Germany, Pierre from France." },
+      { "german": "Jahrelang tauschten sie Neuigkeiten und Fotos aus.", "english": "For years they exchanged news and photos." },
+      { "german": "Als Teenager wurden die Briefe seltener.", "english": "As teenagers the letters became less frequent." },
+      { "german": "Mit dreißig Jahren fanden sie sich auf LinkedIn.", "english": "At the age of thirty they found each other on LinkedIn." },
+      { "german": "Sie schrieben sich sofort und lachten über die alten Briefe.", "english": "They wrote to each other immediately and laughed about the old letters." },
+      { "german": "Pierre lud Michael nach Paris ein.", "english": "Pierre invited Michael to Paris." },
+      { "german": "Sie trafen sich nach zwanzig Jahren zum ersten Mal.", "english": "They met for the first time after twenty years." },
+      { "german": "Es war, als hätten sie sich nie aus den Augen verloren.", "english": "It was as if they had never lost sight of each other." },
+      { "german": "Heute besuchen sie sich jedes Jahr gegenseitig.", "english": "Today they visit each other every year." }
+    ]
+  },
+  {
+    "title": "Musik und Gefühle",
+    "topic": "Music",
+    "level": "Intermediate",
+    "content": [
+      { "german": "Musik begleitet uns durch alle Phasen des Lebens.", "english": "Music accompanies us through all phases of life." },
+      { "german": "Ein Lied kann sofort Erinnerungen wecken.", "english": "A song can instantly awaken memories." },
+      { "german": "Klassische Musik hilft vielen beim Konzentrieren.", "english": "Classical music helps many people to concentrate." },
+      { "german": "Deutschland hat eine reiche Musiktradition.", "english": "Germany has a rich musical tradition." },
+      { "german": "Beethoven, Bach und Brahms kamen aus Deutschland.", "english": "Beethoven, Bach and Brahms came from Germany." },
+      { "german": "Heute ist Deutschland auch für elektronische Musik bekannt.", "english": "Today Germany is also known for electronic music." },
+      { "german": "Berliner Clubs sind weltweit berühmt.", "english": "Berlin clubs are world-famous." },
+      { "german": "Viele Jugendliche lernen ein Musikinstrument.", "english": "Many young people learn a musical instrument." },
+      { "german": "Musik verbindet Menschen über Grenzen hinweg.", "english": "Music connects people across borders." },
+      { "german": "Ein gutes Konzert kann das Herz bewegen.", "english": "A good concert can move the heart." }
+    ]
+  }
+]
