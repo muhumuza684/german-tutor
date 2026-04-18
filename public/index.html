@@ -8,9 +8,7 @@
 </head>
 <body>
 
-  <!-- ══════════════════════════════════════════
-       LOGIN SCREEN
-  ══════════════════════════════════════════ -->
+  <!-- LOGIN SCREEN -->
   <div id="login-screen">
     <div class="login-card">
       <span class="login-flag">🇩🇪</span>
@@ -22,12 +20,16 @@
     </div>
   </div>
 
-  <!-- ══════════════════════════════════════════
-       APP SHELL
-  ══════════════════════════════════════════ -->
+  <!-- MOBILE HAMBURGER BUTTON -->
+  <button class="mobile-menu-btn" id="mobile-menu-btn">☰</button>
+
+  <!-- SIDEBAR OVERLAY (tap to close) -->
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+  <!-- APP SHELL -->
   <div id="app">
 
-    <!-- ── Sidebar ── -->
+    <!-- Sidebar -->
     <nav id="sidebar">
       <div class="sidebar-logo">
         <div class="logo-text">Deutsch Tutor</div>
@@ -36,24 +38,22 @@
 
       <div class="sidebar-nav">
         <div class="nav-label">Study</div>
-
         <div class="nav-item active" data-view="learn">
-          <span class="nav-icon">📖</span>
+          <span class="nav-icon">📚</span>
           <span>Lessons</span>
         </div>
         <div class="nav-item" data-view="chat">
-          <span class="nav-icon">💬</span>
+          <span class="nav-icon">🤖</span>
           <span>Chat Tutor</span>
         </div>
         <div class="nav-item" data-view="phrases">
-          <span class="nav-icon">🗂️</span>
+          <span class="nav-icon">🗣️</span>
           <span>Phrase Book</span>
         </div>
 
         <div class="nav-label" style="margin-top:12px;">Explore</div>
-
         <div class="nav-item" data-view="stories">
-          <span class="nav-icon">📚</span>
+          <span class="nav-icon">📖</span>
           <span>Stories</span>
         </div>
         <div class="nav-item" data-view="songs">
@@ -62,9 +62,8 @@
         </div>
 
         <div class="nav-label" style="margin-top:12px;">Practice</div>
-
         <div class="nav-item" data-view="flashcards">
-          <span class="nav-icon">🔁</span>
+          <span class="nav-icon">🃏</span>
           <span>Flashcards</span>
         </div>
       </div>
@@ -78,72 +77,71 @@
       </div>
     </nav>
 
-    <!-- ── Main Content ── -->
+    <!-- Main Content -->
     <div id="main">
-
-      <!-- Page header (shared) -->
       <div class="page-header" id="page-header-bar">
         <h2 id="page-title">Lessons</h2>
         <p id="page-sub">Structured German vocabulary and phrases</p>
       </div>
 
-      <!-- ── LEARN VIEW ── -->
       <div id="learn-view" class="view active" style="flex:1;overflow:hidden;display:flex;flex-direction:column;">
-        <div class="page-body" id="learn-content">
-          <!-- rendered by app.js -->
-        </div>
+        <div class="page-body" id="learn-content"></div>
       </div>
 
-      <!-- ── CHAT VIEW ── -->
       <div id="chat-view" class="view" style="flex:1;overflow:hidden;display:flex;flex-direction:column;">
-        <div class="chat-messages" id="chat-messages">
-          <!-- messages rendered by app.js -->
-        </div>
+        <div class="chat-messages" id="chat-messages"></div>
         <div class="chat-input-area">
           <div class="chat-input-row">
-            <textarea
-              class="chat-textarea"
-              id="chat-input"
-              placeholder="Type a German sentence… e.g. Ich lerne deutsch"
-              rows="1"
-            ></textarea>
+            <textarea class="chat-textarea" id="chat-input" placeholder="Type a German sentence… e.g. Ich lerne deutsch" rows="1"></textarea>
             <button class="btn-send" id="chat-send" title="Send">➤</button>
           </div>
           <div class="chat-hint">Press Enter to send · Shift+Enter for new line</div>
         </div>
       </div>
 
-      <!-- ── PHRASES VIEW ── -->
       <div id="phrases-view" class="view" style="flex:1;overflow:hidden;display:flex;flex-direction:column;">
-        <div class="page-body" id="phrases-content">
-          <!-- rendered by app.js -->
-        </div>
+        <div class="page-body" id="phrases-content"></div>
       </div>
 
-      <!-- ── STORIES VIEW ── -->
       <div id="stories-view" class="view" style="flex:1;overflow:hidden;display:flex;flex-direction:column;">
-        <div class="page-body" id="stories-content">
-          <!-- rendered by app.js -->
-        </div>
+        <div class="page-body" id="stories-content"></div>
       </div>
 
-      <!-- ── SONGS VIEW ── -->
       <div id="songs-view" class="view" style="flex:1;overflow:hidden;display:flex;flex-direction:column;">
-        <div class="page-body" id="songs-content">
-          <!-- rendered by app.js -->
-        </div>
+        <div class="page-body" id="songs-content"></div>
       </div>
 
-      <!-- ── FLASHCARDS VIEW ── -->
       <div id="flashcards-view" class="view" style="flex:1;overflow:hidden;display:flex;flex-direction:column;">
-        <div class="page-body" id="flashcards-content">
-          <!-- rendered by app.js -->
-        </div>
+        <div class="page-body" id="flashcards-content"></div>
       </div>
-
-    </div><!-- /#main -->
-  </div><!-- /#app -->
+    </div>
+  </div>
 
   <script src="app.js"></script>
+  <script>
+    // Mobile sidebar toggle
+    const menuBtn = document.getElementById('mobile-menu-btn');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('sidebar-overlay');
+
+    function openSidebar() {
+      sidebar.classList.add('open');
+      overlay.classList.add('visible');
+    }
+    function closeSidebar() {
+      sidebar.classList.remove('open');
+      overlay.classList.remove('visible');
+    }
+
+    menuBtn.addEventListener('click', openSidebar);
+    overlay.addEventListener('click', closeSidebar);
+
+    // Close sidebar when a nav item is clicked on mobile
+    document.querySelectorAll('.nav-item').forEach(item => {
+      item.addEventListener('click', () => {
+        if (window.innerWidth <= 640) closeSidebar();
+      });
+    });
+  </script>
 </body>
 </html>
